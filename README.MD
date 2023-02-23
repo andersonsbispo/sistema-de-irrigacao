@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Pascal" src="https://user-images.githubusercontent.com/67974984/218651817-996ccad9-53a4-4dc0-a06a-8d47cc497db0.png"/>
+    <img alt="Arduino" src="https://user-images.githubusercontent.com/67974984/218651817-996ccad9-53a4-4dc0-a06a-8d47cc497db0.png"/>
 </h1>
 
 <h3 align="center">
